@@ -69,5 +69,12 @@ From the Dashboard, it is observed that:
 7. ![](Analyzing_International_Calls_PivotTable_Analysis.png)
    California (CA) has a particularly high percentage of churners among customers on an international plan.
 
-## Recommendations
+## Conclusion & Recommendations
+1. Introduce competitive offers and device upgrades that match or surpass competitors' offerings, alongside loyalty programs featuring discounts, special offers, and exclusive services to reward long-term customers, thereby enhancing satisfaction and retention.
+2. Invest in comprehensive training programs for support staff to improve customer interaction and satisfaction.
+3. Develop retention programs and incentives specifically tailored for senior citizens to lower churn rates, and foster community engagement through events, clubs, or personalized communications to strengthen their loyalty.
+4. Create customized plans and services for different age groups, especially those aged 79–88, and use personalized marketing strategies to highlight the benefits and value of these tailored plans to each demographic.
+5. Re-evaluate unlimited data plans to offer better value for low-data users by introducing flexible options and analyze data usage patterns to align with customer needs and preferences.
+6. Enhance the value proposition of international call plans through competitive pricing, better features, or added benefits. Offer loyalty rewards or discounts to long-term users of these plans to increase satisfaction and retention.
+7. Use data analytics to personalize engagement strategies and proactively support customers showing early signs of dissatisfaction or potential churn, enhancing retention efforts.
 
