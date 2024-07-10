@@ -53,7 +53,7 @@ The steps include:
 
 The Data analysis was well detailed in my article [here]()
 
-## Data Visualization
+## Data Visualization & Summary Insights
 ![](Databels_Customer_Churn_Dashboard.png)
 
 From the Dashboard, it is observed that:
@@ -66,3 +66,8 @@ From the Dashboard, it is observed that:
 4. The demographic group with the highest churn rate is 'Senior'
 5. The age group "79–88," despite having the smallest number of customers, has the highest churn rate
 6. The churn rate for people on an unlimited plan who consume less than 5GB of data is 34.69%
+7. ![](Analyzing_International_Calls_PivotTable_Analysis.png)
+   California (CA) has a particularly high percentage of churners among customers on an international plan.
+
+## Recommendations
+
