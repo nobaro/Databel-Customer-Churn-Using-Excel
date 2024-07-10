@@ -78,3 +78,6 @@ From the Dashboard, it is observed that:
 6. Enhance the value proposition of international call plans through competitive pricing, better features, or added benefits. Offer loyalty rewards or discounts to long-term users of these plans to increase satisfaction and retention.
 7. Use data analytics to personalize engagement strategies and proactively support customers showing early signs of dissatisfaction or potential churn, enhancing retention efforts.
 
+This project equips Databel with the insights needed to foster a more loyal and satisfied customer base.
+
+For a more detailed documentation, read my article [here]()
