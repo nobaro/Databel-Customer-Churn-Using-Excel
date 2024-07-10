@@ -55,3 +55,14 @@ The Data analysis was well detailed in my article [here]()
 
 ## Data Visualization
 ![](Databels_Customer_Churn_Dashboard.png)
+
+From the Dashboard, it is observed that:
+1. The calculated churn rate for Databel stands at 26.86%
+2. The top three reasons for customer churn are:
+   - Competitors made better offer
+   - Competitors had better devices
+   - Attitude of support person
+3. 37.64% of customers left because competitors made better offers
+4. The demographic group with the highest churn rate is 'Senior'
+5. The age group "79–88," despite having the smallest number of customers, has the highest churn rate
+6. The churn rate for people on an unlimited plan who consume less than 5GB of data is 34.69%
