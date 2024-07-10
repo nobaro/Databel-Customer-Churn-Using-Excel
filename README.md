@@ -1,5 +1,5 @@
 # Databel Customer Churn Using Excel
-![]()
+![](Databel_Customer_Churn.png)
 
 ## Introduction
 This Excel project focuses on Customer Churn Analysis for a telecom company named Databel. In this project, I will analyze the factors contributing to customer churn and provide insights to help Databel understand and reduce churn rates. This will ultimately enhance customer retention and grow its customer base.
@@ -54,3 +54,4 @@ The steps include:
 The Data analysis was well detailed in my article [here]()
 
 ## Data Visualization
+![](Databels_Customer_Churn_Dashboard.png)
